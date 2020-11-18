@@ -56,7 +56,7 @@ const AppForm = () => {
             怎麼知道這個活動？ ${source}
             其他： ${other}
         `)
-        event.preventDefault();
+        
     }
     
     const handleInputChange = (event) => {
