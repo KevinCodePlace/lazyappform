@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/lazyappform/static/js/main.d621ab57.chunk.js",
-    "main.js.map": "/lazyappform/static/js/main.d621ab57.chunk.js.map",
+    "main.js": "/lazyappform/static/js/main.fdabd43c.chunk.js",
+    "main.js.map": "/lazyappform/static/js/main.fdabd43c.chunk.js.map",
     "runtime-main.js": "/lazyappform/static/js/runtime-main.29d44af4.js",
     "runtime-main.js.map": "/lazyappform/static/js/runtime-main.29d44af4.js.map",
     "static/js/2.7e15b6c3.chunk.js": "/lazyappform/static/js/2.7e15b6c3.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.29d44af4.js",
     "static/js/2.7e15b6c3.chunk.js",
-    "static/js/main.d621ab57.chunk.js"
+    "static/js/main.fdabd43c.chunk.js"
   ]
 }
